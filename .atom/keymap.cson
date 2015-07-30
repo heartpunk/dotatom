@@ -19,3 +19,6 @@
 
 '.editor':
   'ctrl-p': 'autocomplete:toggle'
+
+'.platform-darwin atom-text-editor':
+  'alt-cmd-f': 'autoflow:reflow-selection'
